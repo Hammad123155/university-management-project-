@@ -128,11 +128,11 @@ void teacherPortal() {
                     cin >> midterm[i];
                     break;
                 case 4:
-                    cout << "Enter CEA marks: ";
+                    cout << "Enter CEA marks from 100: ";
                     cin >> cea[i];
                     break;
                 case 5:
-                    cout << "Enter Final Term marks: ";
+                    cout << "Enter Final Term marks from 100: ";
                     cin >> finalTerm[i];
                     break;
                 case 6:
